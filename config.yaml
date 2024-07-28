@@ -1,0 +1,11 @@
+downloadList:
+  - https://api-takumi.mihoyo.com/event/download_porter/link/nap_cn/official/pc_gwpc
+  - https://api-takumi.mihoyo.com/event/download_porter/link/hkrpg_cn/official/pc_default
+  - https://api-takumi.mihoyo.com/event/download_porter/link/hkrpg_cn/official/android_default
+  - https://static.benghuai.com/Download/v10_1/Original.StripResource_10.1.8_313_utw.shell.apk
+  - https://bundle.bh3.com/ptpublic/rel/20230416151857_AsBJm4PVPKKR38YI/PC/BH3_v6.6.0_4ed7d53313df.7z
+  - https://ys-api.mihoyo.com/event/download_porter/link/ys_cn/official/pc_default
+  - https://ys-api.mihoyo.com/event/download_porter/link/ys_cn/official/android_default
+datachunk: 3145728 # 3 * 1024 * 1024
+timelapse: 1
+trafficFile: "traffic.txt"
