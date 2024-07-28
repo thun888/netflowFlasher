@@ -1,4 +1,15 @@
-# netflowFlasher
+# 声明
+
+> 修改自原版 [netflowFlasher](https://github.com/luckykeeper/netflowFlasher)添加了外置的配置文件
+>
+> **请勿用于非法用途**
+>
+> **因本程序造成的损失，本人概不负责**
+> 
+> **配置软件内置的米家游戏链接为原仓库所有，与本人无关**
+
+
+## netflowFlasher
 刷下行流量小工具，二进制简单部署，仅消耗流量，不写入硬盘
 
 > 直接执行二进制文件即可，每个程序消耗3M/s，有需求可多开或修改源码编译

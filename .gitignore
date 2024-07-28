@@ -20,3 +20,6 @@
 # Go workspace file
 go.work
 traffic.txt
+netflowFlasher_linux_amd64
+netflowFlasher_linux_arm64
+netflowFlasher_darwin_amd64
